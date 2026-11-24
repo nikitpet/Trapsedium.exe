@@ -11,7 +11,7 @@
 <span style="color:#AAAAAA">                                       </span><span style="color:#0000AA">█</span><span style="color:#AAAAAA;background-color:#0000AA">▓▄▓</span><span style="color:#0000AA">█</span><span style="color:#AAAAAA">                                                                                                </span>
 <span style="color:#AAAAAA">                                       </span><span style="color:#0000AA">▀▀▀▀▀</span><span style="color:#AAAAAA">                                                                                                </span></pre>
 A simple trojan I made in C++.
-# This trojan has no warning. 
+# This trojan is destructive. The sample has been changed to display two warnings before execution. Samples which do not have any warning are now considered unreliable and outdated.
 By the way, this was only tested on a Windows 7 x32 VM and the payloads are on <br>
 January 4th <br>
 March 13th <br>
