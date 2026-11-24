@@ -13,9 +13,9 @@
 A simple trojan I made in C++.
 # This trojan has no warning. 
 By the way, this was only tested on a Windows 7 x32 VM and the payloads are on
-January 4th
-March 13th
-May 20th (DESTRUCTIVE, do this one last if recording on a VM)
-September 15th
-October 31st
+January 4th <br>
+March 13th <br>
+May 20th (DESTRUCTIVE, do this one last if recording on a VM) <br>
+September 15th <br>
+October 31st <br>
 All of them contain some sort of gdi except October 31st. Please, don't bully me. This is my first malware.
