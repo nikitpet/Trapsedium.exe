@@ -19,3 +19,5 @@ May 20th (DESTRUCTIVE, do this one last if recording on a VM) <br>
 September 15th <br>
 October 31st <br>
 All of them contain some sort of gdi except October 31st. Please, don't bully me. This is my first malware.
+Password is "Flowey"
+you may need to change the file extension from [unopenable file extension] --> .exe
