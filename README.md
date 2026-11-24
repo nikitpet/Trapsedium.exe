@@ -11,7 +11,8 @@
 <span style="color:#AAAAAA">                                       </span><span style="color:#0000AA">█</span><span style="color:#AAAAAA;background-color:#0000AA">▓▄▓</span><span style="color:#0000AA">█</span><span style="color:#AAAAAA">                                                                                                </span>
 <span style="color:#AAAAAA">                                       </span><span style="color:#0000AA">▀▀▀▀▀</span><span style="color:#AAAAAA">                                                                                                </span></pre>
 A simple trojan I made in C++.
-# This trojan has no warning. By the way, this was only tested on a Windows 7 x32 VM and the payloads are on
+# This trojan has no warning. 
+By the way, this was only tested on a Windows 7 x32 VM and the payloads are on
 January 4th
 March 13th
 May 20th (DESTRUCTIVE, do this one last if recording on a VM)
