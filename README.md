@@ -13,11 +13,12 @@
 A simple trojan I made in C++.
 # This trojan is destructive. The sample has been changed to display two warnings before execution. Samples which do not have any warning are now considered unreliable and outdated.
 By the way, this was only tested on a Windows 7 x32 VM and the payloads are on <br>
-January 4th <br>
-March 13th <br>
+January 4th - the copier payload <br>
+March 14th - cannason3.14 payload <br>
+April 1st - icon meatballs payload <br>
 May 20th (DESTRUCTIVE, do this one last if recording on a VM) <br>
-September 15th <br>
-October 31st <br>
+September 15th - flowey-dvd payload <br>
+October 31st - the title change payload <br>
 All of them contain some sort of gdi except October 31st. Please, don't bully me. This is my first malware.
 Password is "Flowey"
 you may need to change the file extension from [unopenable file extension] --> .exe
